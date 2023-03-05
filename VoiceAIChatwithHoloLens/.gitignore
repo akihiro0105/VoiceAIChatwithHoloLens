@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+[Aa]ssets/unity-chan!/
+[Aa]ssets/unity-chan!.meta
+
+Build_BurstDebugInformation_DoNotShip/
